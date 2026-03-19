@@ -62,13 +62,7 @@
   <img src="https://ghchart.rshah.org/tokyonight/KEee5215" alt="Github Contribution Graph" style="width: 100%;"/>
 </div>
 
----
 
-### 🏆 Achievements & Certifications
-
-- 🎓 **Certified Kubernetes Administrator (CKA)** - CNCF (2025)
-- 🥇 **Hackathon Winner** - Global AI Challenge 2025
-- 📜 **AWS Solutions Architect Associate** - Amazon Web Services
 
 
 ---
